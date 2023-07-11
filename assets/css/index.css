@@ -9,7 +9,7 @@
 body {
     max-width: 1440px;
     min-height: 100vh;
-    background-image: url(background.png);
+    background-image: url(https://github.com/CAR1981/django/blob/main/assets/img/Background.png);
     background-size: 1440px auto;
     /*color: transparent;*/
     background-repeat: no-repeat;
